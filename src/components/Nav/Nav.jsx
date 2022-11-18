@@ -8,10 +8,11 @@ import {MdContactPhone} from 'react-icons/md'
 const nav = () => {
   return (
     <nav>
-      <a href="#"><AiOutlineHome /></a>
+      <a href="#"
+      className='active'><AiOutlineHome /></a>
       <a href="#about"><FaUserAstronaut /></a>
       <a href="#Experience"><AiOutlineFieldTime /></a>
-      <a href="#Contact"><MdContactPhone /></a>
+      <a href="#contact"><MdContactPhone /></a>
     </nav>
 
   )
