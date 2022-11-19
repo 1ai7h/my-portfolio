@@ -1,5 +1,5 @@
 import React from 'react'
-import './contract.css'
+import './contact.css'
 
 const contact = () => {
   return (
@@ -8,3 +8,5 @@ const contact = () => {
 }
 
 export default contact
+
+

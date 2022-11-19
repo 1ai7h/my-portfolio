@@ -1,5 +1,5 @@
 header {
-    height: 100vh;
+    height: 140vh;
     padding-top: 7rem;
     overflow: hidden;
 }
@@ -42,11 +42,11 @@ header {
     width: 26rem;
     height: 33rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 13rem);
     margin-top: 5rem;
     overflow: hidden;
     border-radius: 13rem 13rem 0rem 0rem;
-    padding: 5rem 1.5rem 1.5rem 0r  em;
+    padding: 5rem 1.5rem 1.5rem 0rem;
     
 }
 
